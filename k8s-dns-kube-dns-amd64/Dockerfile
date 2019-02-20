@@ -1,3 +1,3 @@
-FROM gcr.io/google_containers/k8s-dns-kube-dns-amd64:v1.13.3 
+FROM gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.8 
 MAINTAINER dairymix
 

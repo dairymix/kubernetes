@@ -1,3 +1,3 @@
-FROM gcr.io/google_containers/etcd-amd64:v1.13.3 
+FROM gcr.io/google_containers/etcd-amd64:3.2.24 
 MAINTAINER dairymix
 
