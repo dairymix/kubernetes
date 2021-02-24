@@ -1,0 +1,16 @@
+.DS_Store
+**/.Ds_Store
+
+**/sm.git
+**/sm.git/**
+
+**/.svn
+**/.svn/**
+
+/volumn
+/volumn/**
+
+*.log
+
+.war
+**.war*
